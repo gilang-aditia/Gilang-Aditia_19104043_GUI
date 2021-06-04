@@ -1,6 +1,6 @@
 # Gilang-Aditia_19104043_GUI
 ## mahasiswa
-![enter image description here](https://i.ibb.co/Stkpk6Z/full.jpg)
+![enter image description here](https://i.ibb.co/RpGdscG/no2g.png)
 ## Label
 ![enter image description here](https://i.ibb.co/m5d7FQy/data.jpg)
 ## plain text edit
